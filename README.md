@@ -1,4 +1,4 @@
-# Web-application
+# Web-applicatio
 Simple user model web-app with bd 
 All classes in src folder
 All jsp files in web folder
